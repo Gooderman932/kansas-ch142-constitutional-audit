@@ -1,0 +1,13 @@
+# Working documents that should not be published
+/private/
+*.local.md
+
+# Source documents held for chain of custody but too large or too sensitive to commit
+/source-documents/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
