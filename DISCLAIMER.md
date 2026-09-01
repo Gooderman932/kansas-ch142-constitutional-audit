@@ -25,3 +25,22 @@ filing, testimony, or published report.
 **On the conduct rule in § 0.1 of the strategic plan:** the prohibition on
 manufactured encounters is not a stylistic preference. It is the operating
 constraint this entire project is built around.
+
+---
+
+## ALPR track (document 12)
+
+Document 12 carries its own verification register; see the end of that file.
+Two points deserve repeating here:
+
+**The *Grimmett* petition is a pleading, not a finding.** Paragraph citations in
+document 12 are accurate to *Grimmett v. City of Wichita*,
+No. SG-2026-CV-002760 (Sedgwick Cnty. Dist. Ct., filed July 29, 2026), and the
+petition is a careful document sourced largely to Wichita's own contracts,
+council minutes, permits, and policy. But it states one party's allegations. Do
+not repeat its factual claims as established without independent verification.
+
+**Crowdsourced camera maps are a lead source, never a count.** DeFlock and its
+derivatives are volunteer-mapped. Camera counts published by this project come
+from purchase contracts and invoices obtained under KORA, or they carry an
+explicit basis label saying otherwise.
