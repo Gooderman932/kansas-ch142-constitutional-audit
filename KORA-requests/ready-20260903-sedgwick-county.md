@@ -1,4 +1,4 @@
-# KORA-02 — County Chapter 142 Pilot
+# KORA-02 — Sedgwick County Chapter 142 Records Request
 
 **Status:** Final draft; not sent
 **Request ID:** `20260903-SEDGWICK-FIO-CH142-001`
@@ -121,4 +121,3 @@ malcolmgoodmen@gmail.com
 Sincerely,
 
 Matthew P. Goodman
-

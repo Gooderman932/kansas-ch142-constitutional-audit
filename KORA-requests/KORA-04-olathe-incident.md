@@ -4,10 +4,9 @@
 **Request ID:** `20260903-OLATHE-PD-CH142-001`
 **Date:** September 3, 2026
 **To:** Official Custodian of Records, Olathe Police Department
-**Delivery:** City public-records portal at
-https://olatheks-self.govplatform.com/service/Public_Records_Request, with a
-parallel mailed copy to Olathe Police Department Records Division, 501 E. 56
-Hwy., Olathe, KS 66061. Confirm at 913-971-7500.
+**Delivery:** [City public-records portal](https://olatheks-self.govplatform.com/service/Public_Records_Request),
+with a parallel mailed copy to Olathe Police Department Records Division, 501
+E. 56 Hwy., Olathe, KS 66061. Confirm at 913-971-7500.
 
 ## Subject
 

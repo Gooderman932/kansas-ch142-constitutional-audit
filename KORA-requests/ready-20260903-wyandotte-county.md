@@ -1,11 +1,14 @@
-# KORA-02 — County Chapter 142 Pilot
+# KORA-02 — Wyandotte County Chapter 142 Records Request
 
 **Status:** Final draft; not sent
 **Request ID:** `20260903-WYANDOTTE-CH142-001`
 **Date:** September 3, 2026
 **County:** Wyandotte
 **To:** Wyandotte County Sheriff Open Records Unit; Unified Government Clerk's Division
-**Delivery address/email:** Email sheriff/detention copy to oru@wycosheriff.org and mirror it in https://wycokck.nextrequest.com/; submit county-government copy through the same portal
+**Delivery address/email:** Email sheriff/detention copy to
+oru@wycosheriff.org and mirror it in
+[NextRequest](https://wycokck.nextrequest.com/); submit county-government copy
+through the same portal
 
 ## Subject
 
@@ -121,4 +124,3 @@ malcolmgoodmen@gmail.com
 Sincerely,
 
 Matthew P. Goodman
-

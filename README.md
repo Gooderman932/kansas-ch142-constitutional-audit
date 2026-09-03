@@ -22,6 +22,7 @@ with money and lawyers cannot buy quickly.
 | [`11-strategic-plan-financial-political-capacity.md`](11-strategic-plan-financial-political-capacity.md) | **ch. 142.** Political means, financial means, the stress-test ladder, the 90-day operating plan, and a candid assessment |
 | [`12-alpr-flock-constitutional-audit.md`](12-alpr-flock-constitutional-audit.md) | **ALPR.** The factual predicate, the legal terrain after *Chatrie*, the statutory vacuum and why the records window is closing, and the audit program |
 | [`KORA-requests/`](KORA-requests/) | Draft Attorney General, county, ALPR, and incident-preservation templates; none has been sent |
+| [`exports/kora-pdfs/`](exports/kora-pdfs/) | Print-ready individual requests and the combined seven-request PDF packet |
 | [`evidence/`](evidence/) | Source manifest, hashes, and reproducible comparison results; original source files remain gitignored |
 | [`trackers/`](trackers/) | Working datasets — both tracks share one records program and one set of trackers |
 | [`DISCLAIMER.md`](DISCLAIMER.md) | Scope, authorship, and verification status |
