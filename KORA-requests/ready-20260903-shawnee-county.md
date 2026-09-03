@@ -1,11 +1,11 @@
 # KORA-02 — County Chapter 142 Pilot
 
 **Status:** Draft; not sent
-**Request ID:** `[REQUEST_ID]`
-**Date:** `[DATE]`
-**County:** `[COUNTY]`
-**To:** `[SHERIFF / JAIL ADMINISTRATOR / COUNTY COUNSELOR / RECORDS CUSTODIAN]`
-**Delivery address/email:** `[VERIFY BEFORE SENDING]`
+**Request ID:** `20260903-SHAWNEE-CH142-001`
+**Date:** September 3, 2026
+**County:** Shawnee
+**To:** Shawnee County Sheriff's Office, Attn: Request for Records; Shawnee County Clerk
+**Delivery address/email:** Email sheriff portion to SNSORecordsRequests@snco.us using the published form; submit detention and county-government portions through the County Clerk KORA form
 
 ## Subject
 

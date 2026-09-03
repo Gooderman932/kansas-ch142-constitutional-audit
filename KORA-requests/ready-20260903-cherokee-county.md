@@ -1,11 +1,11 @@
 # KORA-02 — County Chapter 142 Pilot
 
 **Status:** Draft; not sent
-**Request ID:** `[REQUEST_ID]`
-**Date:** `[DATE]`
-**County:** `[COUNTY]`
-**To:** `[SHERIFF / JAIL ADMINISTRATOR / COUNTY COUNSELOR / RECORDS CUSTODIAN]`
-**Delivery address/email:** `[VERIFY BEFORE SENDING]`
+**Request ID:** `20260903-CHEROKEE-CH142-001`
+**Date:** September 3, 2026
+**County:** Cherokee
+**To:** Administrative Assistant / KORA Officer, Cherokee County Sheriff; Shelby Robinson, County Open Records Coordinator; Rebecca Brassart, Official Custodian
+**Delivery address/email:** Mail sheriff/jail copy to P.O. Box 479, 915 East Country Road, Columbus, KS 66725; email county-government copy to Shelby.Robinson@cherokeecounty-ks.gov and rebecca.brassart@cherokeecounty-ks.gov
 
 ## Subject
 

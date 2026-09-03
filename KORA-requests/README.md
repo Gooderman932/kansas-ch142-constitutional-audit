@@ -13,6 +13,22 @@ documents, not legal advice, and none has been sent.
 | `KORA-04` | Olathe Police Department | Underlying CAD, call, report, video, and retention records for the July 11 incident identified as SRC-014 |
 | `PRES-01` | Agency holding incident evidence | Case-specific preservation notice for video, audio, CAD, dispatch, messages, and associated metadata |
 
+The verified first-tranche recipients, delivery routes, and assigned request IDs
+are in [`pilot-routing.md`](pilot-routing.md) and
+[`pilot-targets.csv`](pilot-targets.csv).
+
+County-specific review copies:
+
+- [`ready-20260903-cherokee-county.md`](ready-20260903-cherokee-county.md)
+- [`ready-20260903-johnson-county.md`](ready-20260903-johnson-county.md)
+- [`ready-20260903-sedgwick-county.md`](ready-20260903-sedgwick-county.md)
+- [`ready-20260903-shawnee-county.md`](ready-20260903-shawnee-county.md)
+- [`ready-20260903-wyandotte-county.md`](ready-20260903-wyandotte-county.md)
+
+These copies have recipient details but retain `[NAME]`, `[EMAIL]`, and
+`[MAILING ADDRESS, IF REQUIRED]` placeholders. They are not ready to transmit
+until those fields are completed and the split-routing notes are followed.
+
 `KORA-02` and `KORA-03` are separate modules. They can be sent together, but
 ask the custodian to process and price them separately so one disputed or
 burdensome item does not delay the other.

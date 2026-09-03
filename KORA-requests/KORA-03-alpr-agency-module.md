@@ -1,10 +1,10 @@
 # KORA-03 — Vendor-Neutral ALPR Agency Module
 
-**Status:** Draft; not sent  
-**Request ID:** `[REQUEST_ID]`  
-**Date:** `[DATE]`  
-**Agency:** `[AGENCY]`  
-**To:** Official Custodian of Records  
+**Status:** Draft; not sent
+**Request ID:** `[REQUEST_ID]`
+**Date:** `[DATE]`
+**Agency:** `[AGENCY]`
+**To:** Official Custodian of Records
 **Delivery address/email:** `[VERIFY BEFORE SENDING]`
 
 ## Subject
@@ -96,8 +96,8 @@ items. Rolling production is requested.
 Please send the acknowledgment, estimate, rolling productions, and final
 response to:
 
-`[NAME]`  
-`[EMAIL]`  
+`[NAME]`
+`[EMAIL]`
 `[MAILING ADDRESS, IF REQUIRED]`
 
 Sincerely,

@@ -1,11 +1,11 @@
 # KORA-02 — County Chapter 142 Pilot
 
 **Status:** Draft; not sent
-**Request ID:** `[REQUEST_ID]`
-**Date:** `[DATE]`
-**County:** `[COUNTY]`
-**To:** `[SHERIFF / JAIL ADMINISTRATOR / COUNTY COUNSELOR / RECORDS CUSTODIAN]`
-**Delivery address/email:** `[VERIFY BEFORE SENDING]`
+**Request ID:** `20260903-JOHNSON-SO-CH142-001`
+**Date:** September 3, 2026
+**County:** Johnson
+**To:** Central Records Division, Johnson County Sheriff's Office
+**Delivery address/email:** Email SHR-Recordrequests@jocogov.org; mail backup to 27747 W. 159th St., New Century, KS 66031
 
 ## Subject
 

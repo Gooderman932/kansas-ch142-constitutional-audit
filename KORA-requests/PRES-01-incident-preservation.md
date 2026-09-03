@@ -1,11 +1,11 @@
 # PRES-01 — Incident Evidence Preservation Notice
 
-**Status:** Draft; not sent  
-**Incident:** `[INCIDENT OR CASE NUMBER]`  
-**Incident date/time:** `[DATE, TIME, TIME ZONE]`  
-**Location:** `[LOCATION]`  
-**Agency:** `[AGENCY]`  
-**To:** `[CUSTODIAN / AGENCY COUNSEL / CHIEF / SHERIFF]`  
+**Status:** Draft; not sent
+**Incident:** `[INCIDENT OR CASE NUMBER]`
+**Incident date/time:** `[DATE, TIME, TIME ZONE]`
+**Location:** `[LOCATION]`
+**Agency:** `[AGENCY]`
+**To:** `[CUSTODIAN / AGENCY COUNSEL / CHIEF / SHERIFF]`
 **Delivery address/email:** `[VERIFY BEFORE SENDING]`
 
 ## Subject
@@ -44,8 +44,8 @@ and identify the person responsible for implementing the preservation hold.
 
 Please direct correspondence to:
 
-`[NAME]`  
-`[EMAIL]`  
+`[NAME]`
+`[EMAIL]`
 `[MAILING ADDRESS, IF REQUIRED]`
 
 Sincerely,

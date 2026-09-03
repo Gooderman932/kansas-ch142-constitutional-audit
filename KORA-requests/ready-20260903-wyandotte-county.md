@@ -1,11 +1,11 @@
 # KORA-02 — County Chapter 142 Pilot
 
 **Status:** Draft; not sent
-**Request ID:** `[REQUEST_ID]`
-**Date:** `[DATE]`
-**County:** `[COUNTY]`
-**To:** `[SHERIFF / JAIL ADMINISTRATOR / COUNTY COUNSELOR / RECORDS CUSTODIAN]`
-**Delivery address/email:** `[VERIFY BEFORE SENDING]`
+**Request ID:** `20260903-WYANDOTTE-CH142-001`
+**Date:** September 3, 2026
+**County:** Wyandotte
+**To:** Wyandotte County Sheriff Open Records Unit; Unified Government Clerk's Division
+**Delivery address/email:** Email sheriff/detention copy to oru@wycosheriff.org and mirror it in https://wycokck.nextrequest.com/; submit county-government copy through the same portal
 
 ## Subject
 

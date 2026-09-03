@@ -1,11 +1,11 @@
 # KORA-02 — County Chapter 142 Pilot
 
 **Status:** Draft; not sent
-**Request ID:** `[REQUEST_ID]`
-**Date:** `[DATE]`
-**County:** `[COUNTY]`
-**To:** `[SHERIFF / JAIL ADMINISTRATOR / COUNTY COUNSELOR / RECORDS CUSTODIAN]`
-**Delivery address/email:** `[VERIFY BEFORE SENDING]`
+**Request ID:** `20260903-SEDGWICK-FIO-CH142-001`
+**Date:** September 3, 2026
+**County:** Sedgwick
+**To:** Jennifer Scriven, Records Manager and Freedom of Information Officer
+**Delivery address/email:** Email kora-fio@sedgwick.gov or use the county open-records form; include requester physical mailing address
 
 ## Subject
 

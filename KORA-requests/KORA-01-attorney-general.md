@@ -1,10 +1,11 @@
 # KORA-01 — Kansas Attorney General
 
-**Status:** Draft; not sent  
-**Request ID:** `[REQUEST_ID]`  
-**Date:** `[DATE]`  
-**To:** Official Custodian of Records, Office of the Kansas Attorney General  
-**Delivery address/email:** `[VERIFY BEFORE SENDING]`
+**Status:** Draft; not sent
+**Request ID:** `20260903-KSAG-CH142-001`
+**Date:** September 3, 2026
+**To:** Official Custodian of Records, Office of the Kansas Attorney General
+**Delivery:** Certified mail to 120 SW 10th Ave., 2nd Floor, Topeka, KS
+66612-1597. Confirm routing at (785) 296-2215 before mailing.
 
 ## Subject
 
@@ -86,11 +87,10 @@ processing of the remaining items.
 Please send the acknowledgment, estimate, rolling productions, and final
 response to:
 
-`[NAME]`  
-`[EMAIL]`  
+`[NAME]`
+`[EMAIL]`
 `[MAILING ADDRESS, IF REQUIRED]`
 
 Sincerely,
 
 `[NAME]`
-
