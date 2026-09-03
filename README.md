@@ -21,6 +21,8 @@ with money and lawyers cannot buy quickly.
 | --- | --- |
 | [`11-strategic-plan-financial-political-capacity.md`](11-strategic-plan-financial-political-capacity.md) | **ch. 142.** Political means, financial means, the stress-test ladder, the 90-day operating plan, and a candid assessment |
 | [`12-alpr-flock-constitutional-audit.md`](12-alpr-flock-constitutional-audit.md) | **ALPR.** The factual predicate, the legal terrain after *Chatrie*, the statutory vacuum and why the records window is closing, and the audit program |
+| [`KORA-requests/`](KORA-requests/) | Draft Attorney General, county, ALPR, and incident-preservation templates; none has been sent |
+| [`evidence/`](evidence/) | Source manifest, hashes, and reproducible comparison results; original source files remain gitignored |
 | [`trackers/`](trackers/) | Working datasets — both tracks share one records program and one set of trackers |
 | [`DISCLAIMER.md`](DISCLAIMER.md) | Scope, authorship, and verification status |
 
@@ -44,7 +46,7 @@ Both tracks use it. Work rungs in order. Tier 5 is a prohibition, not a step.
 | --- | --- | --- | --- |
 | 0 | Records saturation — one vendor-neutral packet to a widening ring of agencies | Zero | Weeks 1–8 |
 | 1 | Candor probes — disavowal letters, policy-existence probes, public comment | Zero | Weeks 2–10 |
-| 2 | KORA enforcement actions against the worst non-compliers | Low, fee-bearing | Months 2–6 |
+| 2 | KORA enforcement actions against the worst non-compliers | Low, conditional fee shifting | Months 2–6 |
 | 3 | Support the cases that already exist — § 5 defendants; *Grimmett* | None new | Ongoing / **now** |
 | 4 | Affirmative litigation — only with plaintiff, counsel, dataset, and backing | Moderate | Months 6–18 |
 | 5 | Manufactured encounters (ch. 142); interfering with cameras (ALPR) | **Do not.** See `11 § 0.1`, `12 § 0.2` | — |

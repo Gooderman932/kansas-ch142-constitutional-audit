@@ -486,13 +486,15 @@ asset.* Track it in `trackers/alpr-deployment-tracker.csv`.
   as `11 § 1.4`, and here the fiscal frame is even cleaner: this is a recurring
   subscription line item with a renewal date.
 
-### TIER 2 — KORA ENFORCEMENT (low risk, fee-bearing) · Months 2–6
+### TIER 2 — KORA ENFORCEMENT (low risk, conditional fee shifting) · Months 2–6
 
 Identical mechanics to `11 § 2.3`. File on the worst non-compliers.
-K.S.A. 45-218(d)'s three-business-day response requirement and K.S.A. 45-222's
-fee provision apply here exactly as they do to the ch. 142 program *(verify
-both)*. Run one records program, two subjects; the enforcement leverage is
-shared.
+K.S.A. 45-218(d)'s three-business-day requirement to act on a request and K.S.A.
+45-222's conditional fee provision apply here exactly as they do to the ch. 142
+program. The current statutory text was checked against the Kansas Revisor's
+online statutes on September 3, 2026; case interpretation and filing procedure
+remain for counsel. Run one records program, two subjects; the enforcement
+leverage is shared.
 
 ### TIER 3 — SUPPORT THE EXISTING CASE (no new risk to you) · **Start now**
 

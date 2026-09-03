@@ -3,13 +3,28 @@
 **Not legal advice.** The author is not a lawyer. Nothing in this repository is
 legal advice, and no attorney–client relationship is created by reading it.
 
-**Nothing here has been Shepardized.** Every statutory and case citation in this
-repository is provisional and marked for verification. Before acting on any of
-it, confirm against current authority. In particular:
+**Nothing here has been Shepardized.** Case citations and interpretations remain
+provisional. Before acting on any of them, confirm current authority with
+counsel. The following KORA sections were checked against the Kansas Revisor's
+online statutory text on September 3, 2026, but no case-history or procedural
+research was performed:
 
-- **K.S.A. 45-218(d)** — the three-business-day agency response requirement.
-- **K.S.A. 45-222** — the KORA enforcement action, its fee standard ("without a
-  reasonable basis in fact or law"), and any notice prerequisite.
+- **K.S.A. 45-218(d)** — the agency must act on a request within three business
+  days; the subsection does not promise complete production in that period.
+- **K.S.A. 45-219(c)** — copy and access fees may not exceed reasonable,
+  attributable actual costs.
+- **K.S.A. 45-220(b)** — written requests may be required, but generally not on
+  a particular form or with information beyond what the subsection permits.
+- **K.S.A. 45-221** — closure provisions and segregation of open material.
+- **K.S.A. 45-222** — civil enforcement, agency burden of proof, and attorney
+  fees for a prevailing plaintiff only when the denial was **not in good faith
+  and without a reasonable basis in fact or law**.
+
+Still to verify before litigation:
+
+- Any prerequisite, exhaustion, venue, standing, limitations, or pleading rule
+  supplied by current Kansas cases or rules rather than the face of K.S.A.
+  45-222.
 - **42 U.S.C. § 1988** and *Kay v. Ehrler*, 499 U.S. 432 (1991) — the pro se
   fee-recovery bar.
 - **8 C.F.R. § 287.7(d)** — the 48-hour detainer limit.

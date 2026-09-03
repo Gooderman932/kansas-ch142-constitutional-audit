@@ -212,7 +212,7 @@ funded by **fee-shifting and institutional balance sheets.** Plan accordingly.
 | Source | Mechanism | Realistic? |
 | --- | --- | --- |
 | 42 U.S.C. § 1988 | Prevailing party in a § 1983 action recovers attorney fees | Yes — the primary engine. But see the trap below |
-| K.S.A. 45-222 | KORA enforcement action; fees available where a denial was without a reasonable basis in fact or law | Yes — small, fast, repeatable |
+| K.S.A. 45-222 | KORA enforcement action; fees available to a prevailing plaintiff if the denial was **not in good faith and without a reasonable basis in fact or law** | Potentially — small and repeatable, but fee recovery is conditional |
 | Organizational litigation budgets | ACLU of KS, press associations, national civil-liberties funders | Yes — the realistic path to a full case |
 | Fiscal sponsorship | An existing 501(c)(3) accepts restricted donations for the project | Yes — far better than forming your own entity |
 | Crowdfunding | GoFundMe / similar | Marginal. Funds a filing fee, not a case |
@@ -239,17 +239,22 @@ Consequences, stated plainly:
 
 This is the mechanism most people miss, and it fits your situation exactly.
 
-**Mechanics:** K.S.A. 45-218(d) requires an agency response within three
-business days. K.S.A. 45-222 authorizes a civil action to enforce KORA, with
-costs and reasonable attorney fees available where the agency's denial lacked a
-reasonable basis in fact or law. *Verify the current text, the fee standard, and
-any notice prerequisite before filing anything.*
+**Mechanics:** K.S.A. 45-218(d) requires an agency to act on a request within
+three business days; it does not guarantee complete production within that
+period. K.S.A. 45-222 authorizes a civil action to enforce KORA. A prevailing
+plaintiff receives costs and reasonable attorney fees only if the court finds
+that the denial was **not in good faith and without a reasonable basis in fact
+or law**. The current text of §§ 45-218 and 45-222 was checked against the
+Kansas Revisor's online statutes on September 3, 2026. Confirm current law,
+procedural requirements, and case interpretations with Kansas counsel before
+filing.
 
 **Why it is strategically superior to everything else available to you right now:**
 
 - **Zero criminal risk.** No encounter with an officer.
 - **Cheap.** District court, no expert witnesses, no discovery fights.
-- **Fee-shifting** — with counsel, it can pay for itself.
+- **Conditional fee-shifting** — with counsel, it may pay for itself if the
+  statutory bad-faith and no-reasonable-basis standard is met.
 - Every stonewalling agency creates a **public record of stonewalling**, which is
   itself evidence for the constitutional case (a state that will not disclose how
   it enforces a speech-restricting statute is a fact a court can weigh).
@@ -353,9 +358,10 @@ Kansas.
 **Output:** written refusals to disavow — the *Susan B. Anthony List* element-3
 evidence — plus a public map of who will and will not answer.
 
-### TIER 2 — KORA ENFORCEMENT (low risk, fee-bearing) · Months 2–6
+### TIER 2 — KORA ENFORCEMENT (low risk, conditional fee shifting) · Months 2–6
 
-File on the worst non-compliers. Small, winnable, repeatable, fee-shifting.
+File on the worst non-compliers. Small and repeatable, with fee recovery only
+when the statutory standard is met.
 
 **Output:** compelled production; a record of state stonewalling; a working
 relationship with counsel.
@@ -393,8 +399,12 @@ Only with (a) a named plaintiff with a signed declaration, (b) counsel of record
 - [ ] Send preservation demands — footage is aging out
 - [ ] Capture the stale Revisor pages as exhibits
 - [ ] Serve KORA-01 (AG) and KORA-02 to five pilot counties, including Cherokee
-- [ ] Run down the Kansas Reflector piece of July 17 — identify the incident,
-      agency, and subject
+- [x] Run down the Kansas Reflector piece of July 17 — identified the July 11
+      Olathe incident, observer Shana Leacox, ICE officer Jack Ravencamp, and
+      responding Olathe Police Department. No § 5 arrest or charge was reported;
+      the underlying Olathe police record remains to be obtained. See
+      `trackers/enforcement-incident-tracker.csv`, incident
+      `KS-20260711-OLATHE-001`.
 - [ ] Contact your House member and Senator re: an LCC interim study request on
       §§ 2/3/12 fiscal exposure
 - [ ] **Get a consultation with a Kansas civil-rights or criminal-defense
