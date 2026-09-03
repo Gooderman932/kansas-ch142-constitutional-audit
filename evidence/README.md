@@ -1,18 +1,32 @@
 # Evidence Register
 
-This directory stores publishable provenance, hashes, and comparison results.
-Original source files belong under `/source-documents/`, which is gitignored.
+This directory stores provenance, hashes, comparison results, and the preserved
+originals themselves.
+
+Two locations, and the distinction is the whole point:
+
+- **`evidence/sources/`** — committed. Preserved originals of public records
+  small enough to live in git. This is where anything the manifest marks
+  `verified` must be, because a hash with no artifact behind it is not
+  preservation.
+- **`/source-documents/`** — gitignored staging for originals too large or too
+  sensitive to commit. Files here do not survive a fresh clone, so the manifest
+  must never point at this directory for a source it calls preserved.
 
 ## Handling sequence
 
 1. Acquire from the official URL without editing the file.
 2. Record acquisition time in UTC, final URL, filename, size, and SHA-256 in
    `source-manifest.csv`.
-3. Store the original under `/source-documents/`.
+3. Store the original under `evidence/sources/`, or under `/source-documents/`
+   if it is too large or too sensitive to commit -- and if so, say that in the
+   manifest notes rather than marking it preserved.
 4. Generate derivative text or images only after hashing the original.
 5. Record each derivative and its parent source in the manifest.
-6. Commit the manifest, hashes, and reproducible comparison notes, not the large
-   source files.
+6. Commit the manifest, the hashes, the reproducible comparison notes, and the
+   preserved originals in `evidence/sources/`. Leave only the large or sensitive
+   files out.
+7. Verify the set at any time with `cd evidence && sha256sum -c SHA256SUMS.txt`.
 
 The initial priority set is:
 
@@ -25,7 +39,10 @@ The initial priority set is:
 
 ## Current acquisition status
 
-- `SRC-008` is preserved and hashed.
+- `SRC-008` is preserved in `evidence/sources/` and hashed. Re-acquired from the
+  official URL on September 3, 2026; the SHA-256 reproduced byte-for-byte, which
+  confirms both that the recorded hash is correct and that the Secretary of
+  State's copy has not changed.
 - `SRC-001` and `SRC-002` official URLs are verified, but binary-safe download
   failed in the current sandbox. The failed copies contained UTF-8 replacement
   bytes inside PDF streams and were deleted rather than entered into the

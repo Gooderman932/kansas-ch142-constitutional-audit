@@ -2,7 +2,9 @@
 /private/
 *.local.md
 
-# Source documents held for chain of custody but too large or too sensitive to commit
+# Staging area for originals too large or too sensitive to commit. Anything the
+# evidence register calls preserved must live in evidence/sources/ instead --
+# a hash whose artifact is only here is not preservation.
 /source-documents/
 
 # OS / editor noise
