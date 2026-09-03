@@ -85,7 +85,8 @@ it does not record that any request was transmitted.
 
 ## Review and transmission status
 
-All entries are drafts. Requester identity, physical mailing address, signature,
-and delivery authorization remain intentionally blank. No request may be sent
-until those fields are completed and the exact outgoing payload is approved.
-
+All seven selected requests are final drafts. The requester identity is Matthew
+P. Goodman, the reply email is malcolmgoodmen@gmail.com, and the mailing address
+is 8681 SE 71st, Baxter Springs, KS 66713. No request has been sent, and no
+request may be transmitted until the exact outgoing payload and destination are
+approved.

@@ -1,6 +1,6 @@
 # KORA-02 — County Chapter 142 Pilot
 
-**Status:** Draft; not sent
+**Status:** Final draft; not sent
 **Request ID:** `20260903-SHAWNEE-CH142-001`
 **Date:** September 3, 2026
 **County:** Shawnee
@@ -114,11 +114,11 @@ items. Rolling production is requested.
 Please send the acknowledgment, estimate, rolling productions, and final
 response to:
 
-`[NAME]`
-`[EMAIL]`
-`[MAILING ADDRESS, IF REQUIRED]`
+Matthew P. Goodman
+malcolmgoodmen@gmail.com
+8681 SE 71st, Baxter Springs, KS 66713
 
 Sincerely,
 
-`[NAME]`
+Matthew P. Goodman
 

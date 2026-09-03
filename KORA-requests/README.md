@@ -25,9 +25,9 @@ County-specific review copies:
 - [`ready-20260903-shawnee-county.md`](ready-20260903-shawnee-county.md)
 - [`ready-20260903-wyandotte-county.md`](ready-20260903-wyandotte-county.md)
 
-These copies have recipient details but retain `[NAME]`, `[EMAIL]`, and
-`[MAILING ADDRESS, IF REQUIRED]` placeholders. They are not ready to transmit
-until those fields are completed and the split-routing notes are followed.
+These copies have recipient and requester details filled in. They remain marked
+`Final draft; not sent` and must not be transmitted until the exact outgoing
+payload and destination are approved.
 
 `KORA-02` and `KORA-03` are separate modules. They can be sent together, but
 ask the custodian to process and price them separately so one disputed or
