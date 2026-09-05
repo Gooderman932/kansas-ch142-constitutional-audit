@@ -1,0 +1,15 @@
+# Working documents that should not be published
+/private/
+*.local.md
+
+# Staging area for originals too large or too sensitive to commit. Anything the
+# evidence register calls preserved must live in evidence/sources/ instead --
+# a hash whose artifact is only here is not preservation.
+/source-documents/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
