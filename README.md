@@ -1,7 +1,8 @@
 # Kansas Constitutional Audit
 
-A primary-source dossier and enforcement-record project on Kansas state and
-local government practice. Two tracks so far:
+**A constitutional challenge strategy for L. 2026, ch. 142**, and the
+primary-source dossier and enforcement record built to support it. Two tracks so
+far:
 
 - **ch. 142** — L. 2026, ch. 142 (HB 2372) and related measures: the 25-foot
   law (§ 5), immigration detainer holds (§ 1), and the county liability and
@@ -9,11 +10,15 @@ local government practice. Two tracks so far:
 - **ALPR** — automated license plate readers in Kansas: Flock Safety and the
   non-Flock systems everyone forgets to ask about.
 
-The thesis, stated once and true of both tracks: **nobody in Kansas has a
-complete, county-by-county dataset of how this is actually being enforced.**
-Building that dataset — not filing a lawsuit — is the work. It is what makes
-organizational litigation possible, and it is the one asset that organizations
-with money and lawyers cannot buy quickly.
+The objective is a merits ruling and a narrowed or amended statute. The method is
+records-first, and the thesis behind it is stated once and holds for both
+tracks: **nobody in Kansas has a complete, county-by-county dataset of how this
+is actually being enforced.** Building that dataset is what buys the plaintiff,
+the counsel, and the organizational backing a real challenge needs — and it is
+the one asset that organizations with money and lawyers cannot buy quickly.
+
+Records-first is a decision about *when*, *who*, and *on what record*, not a
+decision against litigating. See [`OPERATIONS.md`](OPERATIONS.md) § 1.
 
 ## Contents
 

@@ -9,8 +9,12 @@ other, and what to do in what order.
 
 ## 1. What this project is
 
-It is not a litigation repository. It is an **evidence-production system**,
-built on one bet:
+**A constitutional challenge strategy for L. 2026, ch. 142.** The objective is a
+merits ruling and a narrowed or amended statute. Everything here is in service
+of that.
+
+What distinguishes it from most such projects is the sequencing, and the
+sequencing rests on one bet:
 
 > One person cannot fund a statewide constitutional campaign. But one
 > well-organized person can become the evidentiary infrastructure that makes
@@ -18,11 +22,22 @@ built on one bet:
 > complete, county-by-county dataset of how these laws are actually being
 > enforced.
 
-Everything follows from that. The product is **a dataset and the documented
-provenance behind it**, not a complaint. That dataset serves three
+So the challenge is pursued **records-first**. A complaint filed before there is
+a plaintiff with standing, counsel of record, and an enforcement record is worse
+than no complaint: it generates adverse precedent that forecloses the next
+person. The dataset is what buys the plaintiff, the counsel, and the
+organizational backing — and, through Tier 3, it can produce a merits ruling
+inside someone else's case without this project filing at all.
+
+The current phase is therefore evidence production, and the near-term product is
+**a dataset and the documented provenance behind it**. That dataset serves three
 constituencies at once — litigators who need a record, journalists who need
 counts, legislators who need facts — which is also the revenue path in
-`11 § 2.4`.
+`11 § 2.4` that funds the litigation and survives it.
+
+**Do not read the records-first posture as a decision not to litigate.** It is a
+decision about *when*, *who*, and *on what record*. Tier 4 is the objective; the
+tiers below it are the conditions that make Tier 4 winnable.
 
 ## 2. Two subjects, one machine
 
