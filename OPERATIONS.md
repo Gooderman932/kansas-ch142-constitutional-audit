@@ -48,8 +48,10 @@ tiers below it are the conditions that make Tier 4 winnable.
 
 These are deliberately **not** separate programs. The same sheriff answers both
 requests, so adding the ALPR module to a ch. 142 packet costs one page and
-doubles the yield. Every tracker carries a `track` column so the outputs stay
-separable.
+doubles the yield. The request, incident, and probe trackers each carry a
+`track` column so the outputs stay separable; `alpr-deployment-tracker.csv` does
+not, because every row in it is `alpr` by definition — `13 Part VI` recommends
+adding it anyway for consistency once the derive step is scripted.
 
 They also genuinely intersect: municipal ALPR data reaches federal agencies
 through sharing chains the originating city cannot see, which is the § 1
@@ -63,7 +65,9 @@ citable.** Run one records program.
 ```
 ANALYSIS      11-strategic-plan-financial-political-capacity.md
               12-alpr-flock-constitutional-audit.md
-                  |   why to do it, in what order, at what risk
+              13-data-products-and-publication.md
+                  |   why to do it, in what order, at what risk,
+                  |   and what the output has to look like
                   v
 INSTRUMENTS   KORA-requests/          the actual asks
               scripts/                markdown -> print-ready PDF
@@ -74,11 +78,21 @@ DATA          trackers/*.csv          what came back, scored on a fixed rubric
                   |
                   v
 EVIDENCE      evidence/               provenance, hashes, preserved originals
+                  |
+                  v
+PRODUCTS      reports/<edition>/      derived tables and the licensed report
+              (not yet created)       see 13 Part II
 ```
 
 Each layer feeds only the next. Analysis decides what to ask; instruments ask
 it; trackers score the answers; evidence proves the answers are what they claim
-to be.
+to be; products turn the result into something citable and sellable.
+
+The products layer reaches back up: because published figures need denominators
+and a publication tier, the report's shape constrains what the trackers must
+capture. Those schema requirements are in `13 Part VI` and should land before
+Tier 0 scales past the pilot — a field not captured at response time cannot be
+added later without re-reading every response.
 
 ## 4. The layers
 
@@ -98,6 +112,13 @@ here is the statewide record and Tier 3 support, never a parallel suit.
 
 Both documents end with a **verification register** separating what was read in
 full from what came from secondary reporting.
+
+**`13-data-products-and-publication.md`** — what the record has to become. The
+collection-to-publication pipeline, the tiering rule for what publishes and what
+stays internal, the methodology block every edition carries, licensing posture,
+and the schema changes to make before saturation. It is analysis rather than
+tooling because it constrains collection: the report's shape decides what the
+trackers must capture.
 
 ### Instruments — `KORA-requests/`
 

@@ -26,6 +26,7 @@ decision against litigating. See [`OPERATIONS.md`](OPERATIONS.md) § 1.
 | --- | --- |
 | [`11-strategic-plan-financial-political-capacity.md`](11-strategic-plan-financial-political-capacity.md) | **ch. 142.** Political means, financial means, the stress-test ladder, the 90-day operating plan, and a candid assessment |
 | [`12-alpr-flock-constitutional-audit.md`](12-alpr-flock-constitutional-audit.md) | **ALPR.** The factual predicate, the legal terrain after *Chatrie*, the statutory vacuum and why the records window is closing, and the audit program |
+| [`13-data-products-and-publication.md`](13-data-products-and-publication.md) | **Products.** How the enforcement record becomes a licensable, citable report — the pipeline, what publishes and what does not, the methodology block, licensing posture, and the schema changes to make before saturation |
 | [`KORA-requests/`](KORA-requests/) | Draft Attorney General, county, ALPR, and incident-preservation templates; none has been sent |
 | [`exports/kora-pdfs/`](exports/kora-pdfs/) | Print-ready individual requests and the combined seven-request PDF packet |
 | [`evidence/`](evidence/) | Source manifest, hashes, and the preserved originals in `evidence/sources/`; only files too large or too sensitive to commit stay in gitignored staging |
