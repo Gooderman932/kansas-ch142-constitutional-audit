@@ -23,8 +23,9 @@ with money and lawyers cannot buy quickly.
 | [`12-alpr-flock-constitutional-audit.md`](12-alpr-flock-constitutional-audit.md) | **ALPR.** The factual predicate, the legal terrain after *Chatrie*, the statutory vacuum and why the records window is closing, and the audit program |
 | [`KORA-requests/`](KORA-requests/) | Draft Attorney General, county, ALPR, and incident-preservation templates; none has been sent |
 | [`exports/kora-pdfs/`](exports/kora-pdfs/) | Print-ready individual requests and the combined seven-request PDF packet |
-| [`evidence/`](evidence/) | Source manifest, hashes, and reproducible comparison results; original source files remain gitignored |
+| [`evidence/`](evidence/) | Source manifest, hashes, and the preserved originals in `evidence/sources/`; only files too large or too sensitive to commit stay in gitignored staging |
 | [`trackers/`](trackers/) | Working datasets — both tracks share one records program and one set of trackers |
+| [`OPERATIONS.md`](OPERATIONS.md) | **The manual** — how the parts fit together, the operating loop, the legal spine, verification discipline, and what is still open |
 | [`DISCLAIMER.md`](DISCLAIMER.md) | Scope, authorship, and verification status |
 
 Referenced elsewhere in the dossier series and **not yet in this repository**:
