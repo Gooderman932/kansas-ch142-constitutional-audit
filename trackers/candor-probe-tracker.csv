@@ -1,0 +1,1 @@
+probe_id,track,probe_type,target_name,target_office,county,date_sent,delivery_method,response_received,date_response,response_posture,written_policy_exists,policy_produced,disavowal_given,disavowal_refused,quoted_language,follow_up_due,doc_sha256,source_url,notes
