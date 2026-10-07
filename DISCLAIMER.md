@@ -3,6 +3,47 @@
 **Not legal advice.** The author is not a lawyer. Nothing in this repository is
 legal advice, and no attorney–client relationship is created by reading it.
 
+> **Ownership and licensing live in [`COPYRIGHT.md`](COPYRIGHT.md).** This file
+> covers what is reliable and what is not. That one covers what may be used,
+> by whom, and on what terms.
+
+---
+
+## Legal notices
+
+**No attorney–client relationship.** Nothing in this repository, and no
+communication arising from it, creates one. Material here is general
+information and research product, not advice about anyone's situation.
+
+**Do not drift into practicing law.** Publishing templates, instruments, and
+analysis is one thing. Applying them to another person's specific legal problem
+is another, and in most states the second is the unauthorized practice of law
+whether or not money changes hands. **Products from this project are built for
+lawyers, journalists, researchers, and organizations — people who bring their
+own professional judgment.** A template handed to a layperson with instructions
+for filing it in their own case is the posture that draws complaints. Confirm
+the line in each state where a product is offered before offering it there.
+
+**Publication carries its own exposure.** Naming people and characterizing
+their conduct raises defamation and privacy questions that no internal rule
+settles. The publication tiers and standing rules in
+`13-data-products-and-publication.md` § II are operating policy, not a legal
+opinion. **Have counsel review the first paid edition before it goes out.**
+
+**No warranty.** Everything here is provided as is, without warranty of any
+kind, express or implied, including accuracy, completeness, currency, fitness
+for a particular purpose, or non-infringement.
+
+**Pending matters are quarantined.** Facts specific to a live legal matter are
+logged under `14-intelligence-harvest-protocol.md` § 4 and do not leave the
+register until that matter terminates. Publishing about an open case is a
+statement by a party to it — discoverable, quotable, and usable against the
+person who published it.
+
+---
+
+## Verification status
+
 **Nothing here has been Shepardized.** Case citations and interpretations remain
 provisional. Before acting on any of them, confirm current authority with
 counsel. The following KORA sections were checked against the Kansas Revisor's

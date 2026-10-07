@@ -58,6 +58,7 @@ matches one, it is a candidate; log it.
 | **T4** | **Cost imposed by discretion** | A procedural choice an official was free to make differently transfers money out of a private person's pocket | Converts an abstraction into damages. Aggregates into a cost-of-practice figure |
 | **T5** | **Identifier or data-integrity anomaly** | One identifier spanning records that should not share one; a record attributed to the wrong person; a system producing a muddled history | Systemic. Affects everyone the system touches, not one defendant |
 | **T6** | **Notice failure → adverse outcome** | The record shows the court's own notices returned undelivered during the window in which a party was defaulted for non-appearance | Pure docket arithmetic, scrapeable at scale, and a civil-justice finding with obvious reform value |
+| **T7** | **Internal control** | One institution produced two accounts of the same event, so each can be checked against the other without anything from outside | **The strongest trigger in the set.** It removes the explanation that otherwise absorbs every T1 finding — that the paperwork is always rushed and nobody checks. When one of the two accounts *is* careful, that explanation is gone |
 
 ### 1.1 The promotion test
 
@@ -182,6 +183,13 @@ with the most reason to attack the dataset will check.
 
 ### 6.1 In-session (continuous)
 
+**Look first for a second account of the same event.** A single institution
+rarely documents anything only once: companion filings, a second officer's
+report, minutes alongside a recording, an invoice alongside a press release. Two
+accounts from one body are worth more than ten from outside it, because neither
+can be dismissed as hostile and each limits what the other can claim. When a
+finding looks like T1, ask immediately whether a T7 pairing exists.
+
 The detector in § 1 runs while the work happens. When a trigger fires, the
 three-field capture in § 2 happens immediately, in the session, before moving
 on. **A finding noticed and not written down within the hour is lost** — not
@@ -259,8 +267,8 @@ with a finished thing.**
 ## 8. STARTING STATE — WHAT HAS ALREADY BEEN HARVESTED
 
 The register ships populated. Working sessions through October 7, 2026 have
-been mined under this protocol and produced **nine candidate findings** across
-five triggers and two states.
+been mined under this protocol and produced **twelve candidate findings** across
+six triggers and two states.
 
 Three deserve note here because they are the ones most likely to become
 instruments rather than one-off observations:
@@ -281,6 +289,16 @@ HF-001 innocently, which is exactly why it must be tested rather than assumed.
 undeliverable during the same window in which a party was defaulted for failing
 to appear. This is pure docket arithmetic, scrapeable, and the civil-justice
 finding in the set with the broadest reach.
+
+**HF-010 — the paired-statement control, and the reason T7 exists.** Two officers
+of one department swore statements on the same incident, on the same form, in the
+same filing minute. One cited a warrant by number, issuing agency, issue date and
+extradition scope, and a prior conviction by case number and sentencing date. The
+other cited six items of which one survives a check against the issuing court's
+own docket. *The second statement is the control: where one officer's recital is
+specific and checkable, "these forms are always rushed" stops explaining the
+other.* This is what promotes HF-001 from an anecdote about one affidavit to an
+instrument with a built-in validity test.
 
 **All findings arising from the pending Missouri matter are quarantined.** The
 instruments built from them are not.

@@ -33,7 +33,8 @@ decision against litigating. See [`OPERATIONS.md`](OPERATIONS.md) § 1.
 | [`evidence/`](evidence/) | Source manifest, hashes, and the preserved originals in `evidence/sources/`; only files too large or too sensitive to commit stay in gitignored staging |
 | [`trackers/`](trackers/) | Working datasets — both tracks share one records program and one set of trackers |
 | [`OPERATIONS.md`](OPERATIONS.md) | **The manual** — how the parts fit together, the operating loop, the legal spine, verification discipline, and what is still open |
-| [`DISCLAIMER.md`](DISCLAIMER.md) | Scope, authorship, and verification status |
+| [`DISCLAIMER.md`](DISCLAIMER.md) | Scope, authorship, legal notices, and verification status |
+| [`COPYRIGHT.md`](COPYRIGHT.md) | Ownership, what copyright does and does not protect here, proprietary material, and the license classes |
 
 Referenced elsewhere in the dossier series and **not yet in this repository**:
 `08-plaintiff-standing.md`, `09-draft-complaint-outline.md`.
@@ -78,4 +79,18 @@ of custody is the difference between a dataset and a pile of notes. See
 
 I am not a lawyer and nothing here is legal advice. Every legal citation is
 marked for verification and none of it has been Shepardized. Each audit document
-carries its own verification register. See [`DISCLAIMER.md`](DISCLAIMER.md).
+carries its own verification register. See [`DISCLAIMER.md`](DISCLAIMER.md) for
+the full legal notices, including the unauthorized-practice line this project
+stays on the right side of.
+
+## Copyright
+
+**© 2026 Matthew Preston Goodman. All rights reserved.** Proprietary and
+confidential except where [`COPYRIGHT.md`](COPYRIGHT.md) says otherwise. Access
+to this repository grants no license to redistribute anything in it.
+
+Two things that file says plainly, because getting them wrong would cost money:
+**facts are not copyrightable** — the protection on a dataset comes from
+contract, curation, and the instrument, not from a copyright notice over the
+numbers — and **the methodology is published on purpose**, because an audit
+whose method is secret is one nobody can check.
