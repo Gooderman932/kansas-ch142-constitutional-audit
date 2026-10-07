@@ -9,6 +9,25 @@ the dataset has a change history, which matters when it is later cited.
 | `enforcement-incident-tracker.csv` | Tier 3 and the Kansas Enforcement Report — every § 5 charge and § 1 detainer hold identified, by county. |
 | `candor-probe-tracker.csv` | Tier 1 — disavowal letters and policy-existence probes. A refusal to disavow is the evidence; record the quoted language. |
 | `alpr-deployment-tracker.csv` | The ALPR track's core asset — one row per agency: vendor, camera count and its basis, written policy, configured retention, sharing partners, contract term and renewal date. |
+| `harvest-register.csv` | **Cross-track.** One row per candidate finding mined out of a working session under [`14-intelligence-harvest-protocol.md`](../14-intelligence-harvest-protocol.md). Feeds the product pipeline in `13 § 1`. |
+
+## The harvest register is the one exception to the `track` column
+
+Every other tracker carries `track` (`ch142` or `alpr`) because both tracks run
+through one records program. `harvest-register.csv` does not: findings arrive
+from whatever work is in front of us, including matters in other states, and
+they are separated by `jurisdiction` and `product_line` instead. A finding
+earns its way into a track by maturing into a dataset — at which point it
+appears in one of the trackers above, and the register row records that it did.
+
+**Two of its columns do work the other trackers do not:**
+
+- **`generalizes_how`** — the query that would find a hundred more of the same
+  thing. A row without it is an anecdote; the column is the actual asset.
+- **`quarantined`** — `yes` while any related matter is pending. A quarantined
+  row never leaves the register. The *method* in `generalizes_how` may be built
+  during quarantine; the case-specific facts may not be used until the matter
+  terminates.
 
 ## Conventions
 
