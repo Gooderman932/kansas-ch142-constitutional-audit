@@ -34,9 +34,10 @@ opinion. **Have counsel review the first paid edition before it goes out.**
 kind, express or implied, including accuracy, completeness, currency, fitness
 for a particular purpose, or non-infringement.
 
-**Pending matters are quarantined.** Facts specific to a live legal matter are
-logged under `14-intelligence-harvest-protocol.md` § 4 and do not leave the
-register until that matter terminates. Publishing about an open case is a
+**Pending matters are quarantined out of this repository entirely.** Facts
+specific to a live legal matter are not stored here. They live in that matter's
+own file under `14-intelligence-harvest-protocol.md` § 4 and arrive here only
+after it terminates. Publishing about an open case is a
 statement by a party to it — discoverable, quotable, and usable against the
 person who published it.
 

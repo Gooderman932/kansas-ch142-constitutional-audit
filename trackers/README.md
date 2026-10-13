@@ -24,10 +24,14 @@ appears in one of the trackers above, and the register row records that it did.
 
 - **`generalizes_how`** — the query that would find a hundred more of the same
   thing. A row without it is an anecdote; the column is the actual asset.
-- **`quarantined`** — `yes` while any related matter is pending. A quarantined
-  row never leaves the register. The *method* in `generalizes_how` may be built
-  during quarantine; the case-specific facts may not be used until the matter
-  terminates.
+- **`quarantined`** — `yes` while any related matter is pending. **A
+  quarantined row is not kept in this repository at all.** It lives in the file
+  of the matter it came from, in that matter's own register, and arrives here
+  only once the matter terminates. The *method* in `generalizes_how` may be
+  built and published during quarantine; the case facts may not be here at all.
+  See `14-intelligence-harvest-protocol.md` § 4, which was corrected on October
+  13 — the first version kept quarantined rows here, which put live-case facts
+  inside the repository whose purpose is publication.
 
 ## Conventions
 
