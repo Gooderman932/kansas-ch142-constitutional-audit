@@ -132,27 +132,35 @@ can be sorted by maturity and by product line without re-reading any of them.
 
 ## 4. QUARANTINE — THE WALL
 
-Findings generated while a related matter is pending go in with
-`quarantined = yes` and **do not leave the register**. Not a draft, not a
-tweet, not a FOIA narrative, not a conversation with a reporter.
+**A finding arising from a pending matter is not logged in this repository at
+all.** It is logged in the file of the matter it came from, in that matter's
+own register, and it does not appear here in any form until quarantine lifts.
 
-**What may cross the wall before release:** the contents of `generalizes_how`
-— the query — stripped of every case-specific fact. The instrument is not the
-case. A procedure for checking warrant affidavits against dockets reveals
-nothing about any particular affidavit, and building the tool during quarantine
-is the best use of the waiting period.
+That is a correction to how this protocol was first written. The original text
+said quarantined rows were logged here but "did not leave the register" — which
+put facts about a live case inside the repository whose entire purpose is
+publication and licensing. **A wall that runs through the middle of the
+publication repository is not a wall.** The register and the repository are not
+the same object, and the quarantined register belongs with the case.
+
+**What crosses before quarantine lifts:** the contents of `generalizes_how` —
+the query — stripped of every case-specific fact, and the trigger it taught us.
+The instrument is not the case. A procedure for checking warrant affidavits
+against dockets reveals nothing about any particular affidavit, and building
+the tool during quarantine is the best use of the waiting period. **T7 came out
+of a quarantined matter and is published here; the matter is not.**
 
 **What lifts quarantine:** the matter terminates. Record the date and the
-disposition in `quarantine_release`. Then, and only then, the case-specific
-facts become available — and at that point they are far more publishable than
-they were, because a resolved matter carries an outcome.
+disposition in `quarantine_release` in the case's own register. Then, and only
+then, the row may be brought into this repository — and at that point it is far
+more publishable than it was, because a resolved matter carries an outcome.
 
 **Why this is not caution for its own sake.** Anything published about an open
 case is a statement by a party, discoverable, quotable, and usable against the
 person who published it. The finding does not expire. The opportunity to ruin
-your own case with it does.
-
----
+your own case with it does. And a private repository is not a safe place for
+it either: repositories get shared, cloned, and made public by accident, and
+the one in front of you is a repository whose plan is to be licensed.
 
 ## 5. CHAIN OF CUSTODY
 
@@ -266,9 +274,12 @@ with a finished thing.**
 
 ## 8. STARTING STATE — WHAT HAS ALREADY BEEN HARVESTED
 
-The register ships populated. Working sessions through October 7, 2026 have
-been mined under this protocol and produced **twelve candidate findings** across
-six triggers and two states.
+Working sessions through October 13, 2026 produced **twelve candidate
+findings** across six triggers and two states. **Nine of them arise from a
+pending matter and are therefore not in this repository** — they live in that
+matter's own register under § 4. What remains here are the three that are
+clear to hold: the KORA response matrix (HF-007), the ALPR policy-versus-
+practice comparison (HF-008), and the structural retention finding (HF-009).
 
 Three deserve note here because they are the ones most likely to become
 instruments rather than one-off observations:
@@ -290,18 +301,21 @@ undeliverable during the same window in which a party was defaulted for failing
 to appear. This is pure docket arithmetic, scrapeable, and the civil-justice
 finding in the set with the broadest reach.
 
-**HF-010 — the paired-statement control, and the reason T7 exists.** Two officers
-of one department swore statements on the same incident, on the same form, in the
-same filing minute. One cited a warrant by number, issuing agency, issue date and
-extradition scope, and a prior conviction by case number and sentencing date. The
-other cited six items of which one survives a check against the issuing court's
-own docket. *The second statement is the control: where one officer's recital is
-specific and checkable, "these forms are always rushed" stops explaining the
-other.* This is what promotes HF-001 from an anecdote about one affidavit to an
-instrument with a built-in validity test.
+**HF-009 — the retention window closes before counsel arrives.** Where an
+agency keeps mobile video for thirty days and an indigent defendant is not
+appointed counsel for three weeks, the statutory right of access is
+structurally unavailable to the people who most need it. Two numbers, both
+public, neither case-specific.
 
-**All findings arising from the pending Missouri matter are quarantined.** The
-instruments built from them are not.
+### What the quarantined matter contributed, without being in here
+
+**T7, the internal-control trigger**, came out of a matter under quarantine.
+The matter is not in this repository and will not be until it terminates. The
+trigger is, because a method that says *look for a second account of the same
+event by the same institution* describes no one's case.
+
+**That is the quarantine working as intended**, and it is the pattern to
+repeat: the case stays in the case file, the instrument comes here.
 
 ---
 

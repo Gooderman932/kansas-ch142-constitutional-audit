@@ -86,10 +86,10 @@ The following are **proprietary and not for distribution** in any form:
 
 - Everything marked `Internal` in the publication tiers of
   `13-data-products-and-publication.md` § II.
-- Every row in `trackers/harvest-register.csv` marked `quarantined = yes`, and
-  every fact specific to any pending legal matter, **until the matter
-  terminates and the quarantine is released under
-  `14-intelligence-harvest-protocol.md` § 4**.
+- Every fact specific to any pending legal matter. **Such facts are not stored
+  in this repository at all** — they live in that matter's own file under
+  `14-intelligence-harvest-protocol.md` § 4, and reach this repository only
+  after the matter terminates.
 - Names of private individuals, counsel contacts, and unredacted agency
   productions.
 - Any draft, working note, or analysis not yet marked `verified = yes`.
