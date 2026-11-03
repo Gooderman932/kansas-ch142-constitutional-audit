@@ -109,7 +109,7 @@ can be sorted by maturity and by product line without re-reading any of them.
 | `finding_id` | `HF-NNN`, sequential, never reused |
 | `date_captured` | YYYY-MM-DD |
 | `session_ref` | Which working session, by date and subject |
-| `trigger` | T1–T6 |
+| `trigger` | T1–T7 |
 | `jurisdiction` | State and county, or `multi` |
 | `agency` | The body whose conduct or records are at issue |
 | `assertion` | What was officially asserted |
