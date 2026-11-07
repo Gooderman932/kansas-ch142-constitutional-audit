@@ -1,1 +1,3 @@
 8dd54d6fd0834db978ffeee26ae6a5f28d9893f7e54e31bd81ecea5a94dd2092  sources/SRC-008-governor-veto-message-HB2372.html
+4975de74e2f21bb37a27394da455b0b9f496cbf7e361fd5cf63fc3a3a8d374f6  sources/SRC-001-hb2372-enrolled.pdf
+529e5127d1a56bf362f59af861e62486a231db88c5514021c6f2c260adf2ee54  sources/SRC-002-session-laws-vol2.pdf
