@@ -30,9 +30,11 @@ save.
 So: lock the output shape before Tier 0 scales past the pilot. Part VI lists the
 specific changes.
 
-**What is still true:** nothing here is sellable yet. No request has been sent.
-Three of four trackers are empty headers. This file describes the product the
-machine is being built to produce, not a product that exists.
+**What is still true:** nothing here is sellable yet. Sixteen requests were
+sent 7 Nov 2026 (6 Kansas, 10 Missouri), but no records have been produced or
+logged yet, and only the candor-probe tracker is still an empty header. This
+file describes the product the machine is being built to produce, not a
+product that exists.
 
 ---
 
