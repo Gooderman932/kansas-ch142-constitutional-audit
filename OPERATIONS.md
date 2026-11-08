@@ -287,10 +287,15 @@ Nothing in this repository has been Shepardized. The rules:
 packet with verified custodian routing; the rendered PDFs; `SRC-008` (Governor
 Kelly's April 8, 2026 veto message) preserved and hash-verified.
 
-**Not yet:** **no request has been sent.** `SRC-001` (enrolled HB 2372) and
-`SRC-002` (Session Laws Vol. 2) are `blocked` — official URLs verified, but
-binary-safe download failed and the corrupted copies were deleted rather than
-hashed. Three of the four trackers are empty headers.
+**Not yet:** no records have been produced or logged yet, and no dataset
+exists. Sixteen requests **have** been sent (7 Nov 2026): 6 Kansas rows in
+`trackers/kora-response-tracker.csv` (5 by email + Wichita PD via NextRequest
+portal, request #26-7265) and 10 Missouri rows in
+`missouri/missouri-response-log.csv`. `SRC-001` (enrolled HB 2372) and
+`SRC-002` (Session Laws Vol. 2) were acquired 7 Nov 2026 and are hash-verified
+in `evidence/SHA256SUMS.txt` — they are no longer `blocked`. Of the four
+trackers, only `candor-probe-tracker.csv` is still an empty header; the KORA
+tracker has 11 rows, the ALPR tracker 9, and the incident tracker 1.
 
 **The dataset does not exist yet. The machine that builds it does.**
 
