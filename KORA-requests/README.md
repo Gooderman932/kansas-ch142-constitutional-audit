@@ -1,7 +1,13 @@
 # KORA Request Packet
 
 Draft templates for the first records-saturation tranche. These are working
-documents, not legal advice, and none has been sent.
+documents, not legal advice, and none has been sent as-is: the September
+ready-* copies below remain marked `Final draft; not sent`. The requests
+actually sent 7 Nov 2026 were re-dated, split-routed versions logged in
+`../trackers/kora-response-tracker.csv` (Kansas) and
+`../missouri/missouri-response-log.csv` (Missouri), with sent copies in
+`../missouri/sent/` for Missouri only — no sent-copy files are preserved
+in-repo for the Kansas emails, only Gmail message IDs in the tracker notes.
 
 ## Packet map
 
