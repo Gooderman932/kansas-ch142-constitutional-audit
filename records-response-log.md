@@ -4,7 +4,7 @@
 
 **Due date for first responses:** end of the 3rd business day after receipt — **Thu Nov 12, 2026** (Fri Nov 13 if Veterans Day, Wed Nov 11, counts as a holiday). Sedgwick County offices are closed Wed Nov 11. Nothing is late yet.
 
-**Follow-ups needed right now: none.** No request has been denied and none is past its due date. The two Greene County form returns are your action, not a follow-up — the completed-form drafts are already prepared for you (see below).
+**Follow-ups needed right now: none.** No request has been denied and none is past its due date. Both Greene County forms were returned Nov 9 (see above).
 
 The five unsent requests (Kansas AG, Olathe PD, Cherokee Sheriff, Shawnee Clerk, Wyandotte UG) are not part of this log.
 
@@ -20,8 +20,8 @@ The five unsent requests (Kansas AG, Olathe PD, Cherokee Sheriff, Shawnee Clerk,
 | 20261107-JASPER-SO-SUN-001 | Jasper County Sheriff | Nov 7, email | **Awaiting first response** |
 | 20261107-JOPLIN-PD-SUN-001 (MO-04) | Joplin Police Department | Nov 7, email | **Awaiting first response** |
 | 20261107-JOPLIN-PD-ALPR-001 (MO-03) | Joplin Police Department | Nov 7, email | **Awaiting first response.** Sent to a secondary-source address (kanderso@joplinmo.org). If no acknowledgment by Nov 12, mail a printed copy to Records Division, 303 E 3rd St, Joplin, MO 64801. |
-| 20261107-GREENE-SO-SUN-001 | Greene County Sheriff | Nov 7, email | **Form requested Nov 9, 9:44 a.m.** Agency asked you to complete the attached Sunshine Law Request form and email it back to Records@greenecountymo.gov. Not a denial; no records or fee estimate yet. Your completed-form drafts are ready — return one copy per request. |
-| 20261107-GREENE-SO-ALPR-001 | Greene County Sheriff | Nov 7, email | **Form requested Nov 9, 9:45 a.m.** Same form, same return address. Return one copy per request. |
+| 20261107-GREENE-SO-SUN-001 | Greene County Sheriff | Nov 7, email | **Form returned Nov 9.** Completed form (2 pages, full request on p. 2) emailed back to Records@greenecountymo.gov today. Signature line left blank — email asks them to advise if a signed original is needed. Now awaiting processing; no records or fee estimate yet. |
+| 20261107-GREENE-SO-ALPR-001 | Greene County Sheriff | Nov 7, email | **Form returned Nov 9.** Completed form (2 pages, full request on p. 2) emailed back to Records@greenecountymo.gov today. Signature line left blank — email asks them to advise if a signed original is needed. Now awaiting processing; no records or fee estimate yet. |
 | 20261107-KCPD-SUN-001 | Kansas City Police Department | Nov 7, email | **Acknowledged Nov 9, 8:51 a.m.** (Alycee Valdivia, Office of General Counsel — forwarded to the records unit.) **Second reply Nov 9, 2:05 p.m.** (ServiceDesk, Request ID #169831): KCPD needs **~180 days** to process; earliest records available by 5:00 p.m., ~May 8, 2027. Cost estimate to follow; processing begins after payment. This is a delay, not a denial. |
 | 20261107-JACKSON-SO-SUN-001 | Jackson County Sheriff | Nov 7, email | **Awaiting first response** |
 
@@ -43,6 +43,6 @@ The five unsent requests (Kansas AG, Olathe PD, Cherokee Sheriff, Shawnee Clerk,
 - **Daily check, ~9 a.m.:** I check Gmail and the GovQA portal every morning and message you only when something changes — a new reply, a request gone past its due date, a fee estimate, or a follow-up draft ready for your approval.
 - **Fees:** no fee is ever paid without your approval. MSHP's 90-day fee clock starts only when a fee demand arrives.
 - **Follow-ups:** none is drafted yet because nothing is late or denied. If a request passes Nov 12/13 without an adequate response, I'll draft the chase and show it to you first.
-- **Greene County:** the only action waiting on you — return the two completed forms (drafts already prepared).
+- **Greene County:** both completed forms returned Nov 9 — now waiting on the agency to process them.
 - **KCPD:** the 180-day wait is the longest in the set; nothing to do but wait for the cost estimate.
 - This watch stops when all 16 requests reach a final response.
